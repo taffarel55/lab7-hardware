@@ -1,0 +1,3 @@
+# Hardware
+
+![](pcb.jpg)
